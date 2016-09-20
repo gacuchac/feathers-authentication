@@ -59,7 +59,6 @@
   },
   "contributors": [],
   "dependencies": {
-    "bcryptjs": "^2.3.0",
     "bcrypt": ">=0.5.x",
     "debug": "^2.2.0",
     "feathers-errors": "^2.0.1",
